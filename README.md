@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Maíra</h1>
-<h3 align="center">I'm a physical education student who discovered a new world in software development. Since then, I have been studying hard to get to improve myself and to start solving problems.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mairaafreitas&label=Profile%20views&color=0e75b6&style=flat" alt="mairaafreitas" /> </p>
+<h1 align="center">Hi there 👋, I'm Maíra</h1>
+<h3 align="center">I'm a physical education student who recently discovered a new world in software development. Since then, I have been studying hard to get to improve myself and to start solving real problems.</h3>
 
 - 🌱 I’m currently learning **Python, Big O, Data Structures and Algorithmshm**
 
-- 📫 How to reach me **maira.oliveirafreitas@gmail.com**
+- 📫 How to reach me: **maira.oliveirafreitas@gmail.com**
 
-- ❤ love **I love to read and to watch TV series. 📚📺**
+- ❤ Things that I love: **I love to read and to watch TV series. 📚📺**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
