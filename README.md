@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Maíra</h1>
 <h3 align="center">I'm a physical education student who discovered a new world in software development. Since then, I have been studying hard to get to improve myself and to start solving real problems.</h3>
 
-- 🌱 I’m currently learning: **Python, Big O, Data Structures and Algorithms**
+- 🌱 I’m currently learning: **Python, HTML, CSS, JS, Big O, Data Structures and Algorithms**
 
 - 📫 How to reach me: **maira.oliveirafreitas@gmail.com**
 
