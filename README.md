@@ -1,11 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Maíra</h1>
-<h3 align="center">I'm a physical education student who discovered a new world in software development. Since then, I have been studying hard to improve my coding skills and to start solving real problems.</h3>
+<h3 align="center">I'm a physical education student who discovered a new world in software development. Since then, I have been studying hard to improve my coding skills and solving real problems.</h3>
 
 - 🌱 I’m currently learning: **Python, Django, Chalice, SQL, Data Structures and Algorithms**
 
 - 📫 How to reach me: **maira.oliveirafreitas@gmail.com**
-
-- ❤ Things that I love: **I love to read, to watch TV series and play 'fall guys'. 📚📺🕹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
