@@ -24,5 +24,5 @@ I am always willing to learn 🧠, gain experience, collaborate and build amazin
 
 ## :gear: &nbsp;GitHub Analytics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mairaafreitas&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mairaafreitas&show_icons=true&theme=radical&count_private=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mairaafreitas&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
