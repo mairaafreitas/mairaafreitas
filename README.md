@@ -1,7 +1,7 @@
 ## Hello :earth_americas:, I'm Maíra
 I'm a Physical Education Professional who discovered a new world in software development. Since then, I have been studying hard to improve my coding skills and solving real problems. 
 
-I am currently working at @juntossomosmais as a Software Engineer.
+I am currently working at @loggi as a Software Engineer.
 
 I am always willing to learn 🧠, gain experience, collaborate and build amazing products for the world :earth_americas:!
 
