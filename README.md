@@ -26,3 +26,6 @@ I am always willing to learn 🧠, gain experience, collaborate and build amazin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mairaafreitas&show_icons=true&theme=radical&count_private=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mairaafreitas&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mairaafreitas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
