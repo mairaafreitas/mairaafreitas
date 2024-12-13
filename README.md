@@ -28,4 +28,4 @@ I am always willing to learn 🧠, gain experience, collaborate and build amazin
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mairaafreitas&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mairaafreitas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mairaafreitas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
